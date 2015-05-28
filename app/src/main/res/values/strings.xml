@@ -10,7 +10,7 @@
     <string name="fraseInicial"><![CDATA[A technological evalu<font color="#B388FF">action</font> of contemporary experiences in museums.]]></string>
     <string name="mensajeEnviar"><![CDATA[Share your evalu<font color="#B388FF">action</font> with your friends.]]></string>
     <string name="mensajeEvaluar">Press the center button to start the roulette, when finished press again to continue</string>
-    <string name="mensajeEvaluacion"><![CDATA[Make a grimace: How is the ugliest face the more points you'll give to the evalu<font color="#B388FF">action</font>. Press the button of the camera to take the picture.]]></string>
+    <string name="mensajeEvaluacion"><![CDATA[Make a grimace: How is the ugliest face the more points you\'ll give to the evalu<font color="#B388FF">action</font>. Press the button of the camera to take the picture.]]></string>
     <string name="facebook_app_id" translatable="false">1119699051389932</string>
     <string name="app_id">1119699051389932</string>
 
@@ -29,11 +29,11 @@
     <string name="saltos">Jumps</string>
     <string name="sonrisas">Smiles</string>
     <string name="besos">Kisses</string>
-    <string name="muecas_descripcion">Make a grimace to make your evaluaction. How is the ugliest face, the more points you'll give</string>
-    <string name="aplausos_descripcion">Applauds to make your evaluaction. How strong are your applause, more score you'll give</string>
-    <string name="gritos_descripcion">Shout for your evaluaction. How strong are you scream, the more points you'll give</string>
-    <string name="saltos_descripcion">Jump to make your evaluaction. The higher is your jump, the more points you'll give</string>
-    <string name="sonrisas_descripcion">Smile for your evaluaction. How much bigger is your smile, more score you'll give</string>
-    <string name="besos_descripcion">Kiss to make your evaluaction. The stronger sound your kiss, the more points you'll give</string>
+    <string name="muecas_descripcion">Make a grimace to make your evaluaction. How is the ugliest face, the more points you\'ll give</string>
+    <string name="aplausos_descripcion">Applauds to make your evaluaction. How strong are your applause, more score you\'ll give</string>
+    <string name="gritos_descripcion">Shout for your evaluaction. How strong are you scream, the more points you\'ll give</string>
+    <string name="saltos_descripcion">Jump to make your evaluaction. The higher is your jump, the more points you\'ll give</string>
+    <string name="sonrisas_descripcion">Smile for your evaluaction. How much bigger is your smile, more score you\'ll give</string>
+    <string name="besos_descripcion">Kiss to make your evaluaction. The stronger sound your kiss, the more points you\'ll give</string>
 
 </resources>

@@ -51,8 +51,8 @@ public class EvaluacionFragment extends Fragment {
     public static final int MEDIA_TYPE_VIDEO = 2;
     public static final int RESULT_OK = -1;
     public static final int RESULT_CANCELED = 0;
-    private static final String mensajeInicio = "Esta es mi #evapp #evluaccion. Mira mi ";
-    private static final String mensajeFinal = "@evapp";
+    private static final String mensajeInicio = "Esta es mi #evapp #evaluaccion. Mira mi ";
+    private static final String mensajeFinal = " @evapp";
     private Uri fileUri = null;
     private OpcionesComo opcion;
     private String mensaje;

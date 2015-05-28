@@ -2,28 +2,28 @@
 <resources>
     <string name="besos">Kisses</string>
     <string name="aplausos">Applause</string>
-    <string name="aplausos_descripcion">Applauds to make your evaluaction. How strong are your applause, more score you'll give</string>
-    <string name="besos_descripcion">Kiss to make your evaluaction. The stronger sound your kiss, the more points you'll give</string>
+    <string name="aplausos_descripcion">Applauds to make your evaluaction. How strong are your applause, more score you\'ll give</string>
+    <string name="besos_descripcion">Kiss to make your evaluaction. The stronger sound your kiss, the more points you\'ll give</string>
     <string name="chooseEvaText">What is evaluated?</string>
     <string name="diseno">Design</string>
     <string name="diseno_descripcion">Evaluate the choice and distribution of the works in the exhibition space</string>
     <string name="fraseInicial"><![CDATA[A technological evalu<font color="#B388FF">action</font> of contemporary experiences in museums.]]></string>
     <string name="gritos">Shouting</string>
-    <string name="gritos_descripcion">Shout for your evaluaction. How strong are you scream, the more points you'll give</string>
+    <string name="gritos_descripcion">Shout for your evaluaction. How strong are you scream, the more points you\'ll give</string>
     <string name="mensajeEnviar"><![CDATA[Share your evalu<font color="#B388FF">action</font> with your friends.]]></string>
-    <string name="mensajeEvaluacion"><![CDATA[Make a grimace: How is the ugliest face the more points you'll give to the evalu<font color="#B388FF">action</font>. Press the button of the camera to take the picture.]]></string>
+    <string name="mensajeEvaluacion"><![CDATA[Make a grimace: How is the ugliest face the more points you\'ll give to the evalu<font color="#B388FF">action</font>. Press the button of the camera to take the picture.]]></string>
     <string name="mensajeEvaluar">Press the center button to start the roulette, when finished press again to continue</string>
     <string name="muecas">Grimaces</string>
-    <string name="muecas_descripcion">Make a grimace to make your evaluaction. How is the ugliest face, the more points you'll give</string>
+    <string name="muecas_descripcion">Make a grimace to make your evaluaction. How is the ugliest face, the more points you\'ll give</string>
     <string name="obras">Works</string>
     <string name="obras_descripcion">Evaluate aesthetic, reflective and interactive sample proposals</string>
     <string name="otros">Others</string>
     <string name="otros_descripcion">Evaluate another aspect not covered by the other options</string>
     <string name="queEvaText">How is it measured?</string>
     <string name="saltos">Jumps</string>
-    <string name="saltos_descripcion">Jump to make your evaluaction. The higher is your jump, the more points you'll give</string>
+    <string name="saltos_descripcion">Jump to make your evaluaction. The higher is your jump, the more points you\'ll give</string>
     <string name="sonrisas">Smiles</string>
-    <string name="sonrisas_descripcion">Smile for your evaluaction. How much bigger is your smile, more score you'll give</string>
+    <string name="sonrisas_descripcion">Smile for your evaluaction. How much bigger is your smile, more score you\'ll give</string>
     <string name="text_choose_language">Choose your language</string>
     <string name="visita">Visit</string>
     <string name="visita_descripcion">Evaluate the development of the actions and conduct by the educator</string>
