@@ -25,4 +25,5 @@
     <string name="besos">BesosIT</string>
     <string name="aplausos_descripcion">Aplaude para realizar tu evaluacción. Cuánto más fuertes sean tus aplausos, más puntuación darásIT</string>
     <string name="aplausos">AplausosIT</string>
+    <string name="mensajeEvaluacion"><![CDATA[Realiza una mueca: Cuánto más fea sea la mueca mas puntuación le darás a la evalu<font color="#B388FF">acción</font>. Pulsa el botón de la cámara para tomar la foto.]]></string>
 </resources>
