@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="visita_descripcion">Evaluar el desarrollo de las acciones y su conducción por el educadorIT</string>
+    <string name="visita">VisitaIT</string>
+    <string name="text_choose_language">Choose your languageIT</string>
+    <string name="sonrisas_descripcion">Sonríe para realizar tu evaluacción. Cuánto más grande sea tu sonrisa, más puntuación darásIT</string>
+    <string name="sonrisas">SonrisasIT</string>
+    <string name="saltos_descripcion">Salta para realizar tu evaluacción. Cuánto más alto sea tu salto, más puntuación darásIT</string>
+    <string name="saltos">SaltosIT</string>
+    <string name="queEvaText">¿Cómo se evalúa?IT</string>
+    <string name="otros_descripcion">Evaluar otro aspecto no contemplado en las otras opcionesIT</string>
+    <string name="otros">OtrosIT</string>
+    <string name="obras_descripcion">Evaluar propuestas estéticas, reflexivas e interactivas den la muestraIT</string>
+    <string name="obras">ObrasIT</string>
+    <string name="muecas_descripcion">Haz una mueca para realizar tu evaluacción. Cuánto más fea sea la mueca, más puntuación darásIT</string>
+    <string name="muecas">MuecasIT</string>
+    <string name="mensajeEnviar"><![CDATA[Comparte tu evalu<font color="#B388FF">acción</font> con tus amigos.]]></string>
+    <string name="gritos_descripcion">Grita para realizar tu evaluacción. Cuánto más fuertes sean tus gritos, más puntuación darásIT</string>
+    <string name="gritos">Gritos</string>
+    <string name="fraseInicial"><![CDATA[A technological evalu<font color="#B388FF">action</font> of contemporary experiences in museums.]]></string>
+    <string name="diseno_descripcion">Evaluar la elección y disposición de las obras en el espacio expositivoIT</string>
+    <string name="diseno">DiseñoIT</string>
+    <string name="chooseEvaText">¿Qué se evalua?IT</string>
+    <string name="besos_descripcion">Besa para realizar tu evaluacción. Cuánto más fuerte suene tu beso, más puntuación darásIT</string>
+    <string name="besos">BesosIT</string>
+    <string name="aplausos_descripcion">Aplaude para realizar tu evaluacción. Cuánto más fuertes sean tus aplausos, más puntuación darásIT</string>
+    <string name="aplausos">AplausosIT</string>
+</resources>

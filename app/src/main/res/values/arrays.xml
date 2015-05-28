@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages">
+        <item>English (English)</item>
+        <item>Italian (Italiano)</item>
+        <item>Portuguese (Português)</item>
+        <item>Spanish (Español)</item>
+        <item>English (English)</item>
+        <item>Italian (Italiano)</item>
+        <item>Portuguese (Português)</item>
+        <item>Spanish (Español)</item>
+    </string-array>
+    <string-array name="aspect">
+        <item>@string/visita</item>
+        <item>@string/obras</item>
+        <item>@string/diseno</item>
+        <item>@string/otros</item>
+        <item>@string/visita</item>
+        <item>@string/obras</item>
+        <item>@string/diseno</item>
+        <item>@string/otros</item>
+    </string-array>
+    <string-array name="opcionesComo">
+        <item>@string/muecas</item>
+        <item>@string/aplausos</item>
+        <item>@string/gritos</item>
+        <item>@string/saltos</item>
+        <item>@string/sonrisas</item>
+        <item>@string/besos</item>
+    </string-array>
+</resources>

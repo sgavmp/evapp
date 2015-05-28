@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_choose_language">Escolha o seu idioma</string>
+    <string name="chooseEvaText">¿Qué se evalua?PT</string>
+    <string name="queEvaText">¿Cómo se evalúa?PT</string>
+    <string name="fraseInicial"><![CDATA[Uma avali<font color="#B388FF">ação</font> tecnológica de experiências contemporâneas em museus.]]></string>
+    <string name="mensajeEnviar"><![CDATA[Comparte tu evalu<font color="#B388FF">acción</font> con tus amigos.]]></string>
+    <string name="mensajeEvaluar">Pulse el botón central para iniciar la ruleta, cuando termine vuelve a pulsarlo para continuar.</string>
+    <string name="mensajeEvaluacion"><![CDATA[Realiza una mueca: Cuánto más fea sea la mueca mas puntuación le darás a la evalu<font color="#B388FF">acción</font>. Pulsa el botón de la camara para tomar la foto.]]></string>
+    <string name="aplausos">AplausosPT</string>
+    <string name="aplausos_descripcion">Aplaude para realizar tu evaluacción. Cuánto más fuertes sean tus aplausos, más puntuación darásPT</string>
+    <string name="besos">BesosPT</string>
+    <string name="besos_descripcion">Besa para realizar tu evaluacción. Cuánto más fuerte suene tu beso, más puntuación darásPT</string>
+    <string name="diseno">DiseñoPT</string>
+    <string name="diseno_descripcion">Evaluar la elección y disposición de las obras en el espacio expositivoPT</string>
+    <string name="gritos">GritosPT</string>
+    <string name="gritos_descripcion">Grita para realizar tu evaluacción. Cuánto más fuertes sean tus gritos, más puntuación darásPT</string>
+    <string name="muecas">MuecasPT</string>
+    <string name="muecas_descripcion">Haz una mueca para realizar tu evaluacción. Cuánto más fea sea la mueca, más puntuación darásPT</string>
+    <string name="obras">ObrasPT</string>
+    <string name="obras_descripcion">Evaluar propuestas estéticas, reflexivas e interactivas den la muestraPT</string>
+    <string name="otros">OtrosPT</string>
+    <string name="otros_descripcion">Evaluar otro aspecto no contemplado en las otras opcionesPT</string>
+    <string name="saltos">SaltosPT</string>
+    <string name="saltos_descripcion">Salta para realizar tu evaluacción. Cuánto más alto sea tu salto, más puntuación darásPT</string>
+    <string name="sonrisas">SonrisasPT</string>
+    <string name="sonrisas_descripcion">Sonríe para realizar tu evaluacción. Cuánto más grande sea tu sonrisa, más puntuación darásPT</string>
+    <string name="visita">VisitaPT</string>
+    <string name="visita_descripcion">Evaluar el desarrollo de las acciones y su conducción por el educadorPT</string>
+</resources>

@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:fab="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.evapp.ui.fragments.EvaluacionFragment">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/mensajeEvaluacion"
+        android:id="@+id/textView4"
+        android:layout_gravity="center_horizontal|top"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_marginTop="20dp" />
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/buttonCamera"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_photo_camera_black" />
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/buttonVideo"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_videocam_black"
+        android:focusableInTouchMode="false" />
+
+</FrameLayout>

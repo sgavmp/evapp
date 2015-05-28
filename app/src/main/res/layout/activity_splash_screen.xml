@@ -1,0 +1,29 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:background="@color/primary"
+    tools:context="com.evapp.ui.SplashScreenActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="EVApp"
+        android:id="@+id/textView8"
+        android:layout_gravity="center_horizontal|top"
+        android:textSize="60dp"
+        android:shadowColor="@color/black"
+        android:textStyle="bold"
+        android:translationZ="5dp"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Una nueva forma de evaluar"
+        android:id="@+id/textView9"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="50dp"
+        android:textStyle="bold"
+        android:textSize="25dp" />
+</FrameLayout>
