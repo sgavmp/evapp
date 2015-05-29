@@ -28,7 +28,7 @@
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:id="@+id/btGoogle"
-            android:src="@drawable/google"
+            android:src="@drawable/button_google"
             android:scaleType="centerCrop"
             android:background="@color/transparent"
             android:enabled="false" />
@@ -37,7 +37,7 @@
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:id="@+id/btInsta"
-            android:src="@drawable/instagram"
+            android:src="@drawable/button_instagram"
             android:scaleType="centerCrop"
             android:background="@color/transparent"
             android:enabled="false" />
@@ -47,7 +47,7 @@
             android:layout_height="75dp"
             android:id="@+id/btTwitter"
             android:scaleType="centerCrop"
-            android:src="@drawable/twitter2"
+            android:src="@drawable/button_twitter"
             android:background="@color/transparent"
             android:enabled="false" />
 
@@ -55,7 +55,7 @@
             android:layout_width="75dp"
             android:layout_height="75dp"
             android:id="@+id/btFace"
-            android:src="@drawable/facebook"
+            android:src="@drawable/button_facebook"
             android:scaleType="centerCrop"
             android:background="@color/transparent"
             android:enabled="false" />

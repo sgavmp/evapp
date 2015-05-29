@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.graphics.Bitmap;
+import android.graphics.PorterDuff;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -88,14 +89,20 @@ public class EnviarFragment extends Fragment {
         textMain.setText(Html.fromHtml(getResources().getString(R.string.mensajeEnviar)));
         textEva.setText(text);
         if (uriFile.toString().endsWith(".mp4")) {
+            Toast.makeText(getActivity(), "Pulsa en la imagen para reproducir el video", Toast.LENGTH_LONG).show();
             video.setVisibility(View.VISIBLE);
             imagen.setVisibility(View.INVISIBLE);
             video.setVideoPath(uriFile.getPath());
             video.setMediaController(new MediaController(getActivity()));
             video.requestFocus();
+            btTwitter.setEnabled(false);
+            btTwitter.setImageResource(R.drawable.twitter_off);
         } else {
             if (isAppInstalled(getActivity(),"com.twitter.android")) {
                 btTwitter.setEnabled(true);
+            } else {
+                btTwitter.setEnabled(false);
+                btTwitter.setImageResource(R.drawable.twitter_off);
             }
             video.setVisibility(View.INVISIBLE);
             imagen.setVisibility(View.VISIBLE);
@@ -103,14 +110,22 @@ public class EnviarFragment extends Fragment {
         }
         if (isAppInstalled(getActivity(),"com.facebook.katana")) {
             btFace.setEnabled(true);
+        } else {
+            btFace.setEnabled(false);
+            btFace.setImageResource(R.drawable.facebook_off);
         }
         if (isAppInstalled(getActivity(),"com.instagram.android")) {
             btInsta.setEnabled(true);
+        } else {
+            btInsta.setEnabled(false);
+            btInsta.setImageResource(R.drawable.instagram_off);
         }
         if (isAppInstalled(getActivity(),"com.google.android.apps.plus")) {
             btGoogle.setEnabled(true);
+        } else {
+            btGoogle.setEnabled(false);
+            btGoogle.setImageResource(R.drawable.google_off);
         }
-        Toast.makeText(getActivity(), "Pulsa en la imagen para reproducir el video", Toast.LENGTH_LONG).show();
         return view;
     }
 

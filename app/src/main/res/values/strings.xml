@@ -3,16 +3,14 @@
 
     <string name="app_name" translatable="false">Evapp</string>
     <string name="nameApp" translatable="false">EvApp</string>
-    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="text_choose_language">Choose your language</string>
     <string name="chooseEvaText">What is evaluated?</string>
     <string name="queEvaText">How is it measured?</string>
     <string name="fraseInicial"><![CDATA[A technological evalu<font color="#B388FF">action</font> of contemporary experiences in museums.]]></string>
     <string name="mensajeEnviar"><![CDATA[Share your evalu<font color="#B388FF">action</font> with your friends.]]></string>
-    <string name="mensajeEvaluar">Press the center button to start the roulette, when finished press again to continue</string>
     <string name="mensajeEvaluacion"><![CDATA[Make a grimace: How is the ugliest face the more points you\'ll give to the evalu<font color="#B388FF">action</font>. Press the button of the camera to take the picture.]]></string>
     <string name="facebook_app_id" translatable="false">1119699051389932</string>
-    <string name="app_id">1119699051389932</string>
+    <string name="app_id" translatable="false">1119699051389932</string>
 
     <string name="title_activity_splash_screen" translatable="false">Evapp</string>
     <string name="visita">Visit</string>
